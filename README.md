@@ -1,42 +1,42 @@
 [index.html](https://github.com/user-attachments/files/34233452/index.html)
-<!DOCTYPE html>
+
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>灯具开关插座安装 - 长垣水电施工服务</title>
-    <style>
+    <标题>灯具开关插座安装 - 长垣水电施工服务</标题>
+    <样式>
         * {margin:0;padding:0;box-sizing:border-box;font-family:"Microsoft Yahei",sans-serif;}
         html {scroll-behavior: smooth;}
         a {text-decoration:none;color:#fff;}
         ul {list-style:none;}
         /* 导航栏 */
-        nav {width:100%;background:#165DFF;position:sticky;top:0;z-index:99;}
-        .nav-wrap {max-width:1200px;margin:0 auto;padding:0 20px;height:60px;display:flex;justify-content:space-between;align-items:center;}
-        .logo {font-size:22px;font-weight:bold;color:#fff;}
+        nav {宽度:100%;背景:#165DFF;定位:sticky;顶部:0;z-index:99;}
+
+
         .nav-menu {display:flex;gap:30px;}
         .nav-menu a:hover {color:#ffd700;}
         /* 头部横幅 */
-        .banner {width:100%;height:480px;background:linear-gradient(rgba(0,0,0,0.45),rgba(0,0,0,0.45)),url("https://picsum.photos/id/1060/1920/800");background-size:cover;background-position:center;display:flex;align-items:center;justify-content:center;text-align:center;color:#fff;}
-        .banner-text h1 {font-size:42px;margin-bottom:16px;}
-        .banner-text p {font-size:18px;margin-bottom:24px;opacity:0.9;line-height:1.7;}
-        .btn {display:inline-block;padding:12px 32px;background:#165DFF;border-radius:6px;font-size:16px;transition:0.3s;}
-        .btn:hover {background:#0e48d0;}
+    .banner {width:100%;height:480px;background:linear-gradient(rgba(0,0,0,0.45),rgba(0,0,0,0.45)),url("https://picsum.photos/id/1060/1920/800");background-size:cover;background-position:center;display:flex;align-items:center;justify-content:center;text-align:center;color:#fff;}
+
+
+
+
         /* 通用容器 */
-        .container {max-width:1200px;margin:0 auto;padding:60px 20px;}
-        .title {text-align:center;margin-bottom:40px;}
-        .title h2 {font-size:30px;color:#222;margin-bottom:10px;}
+    
+    .title {text-align:center;margin-bottom:40px;}
+    .title h2 {font-size:30px;color:#222;margin-bottom:10px;}
         .title span {display:inline-block;width:60px;height:3px;background:#165DFF;}
         /* 服务板块 */
         .card-box {display:grid;grid-template-columns:repeat(3,1fr);gap:24px;}
-        .card {border:1px solid #eee;padding:30px;border-radius:10px;text-align:center;transition:0.3s;}
-        .card:hover {box-shadow:0 8px 24px #00000015;transform:translateY(-5px);}
-        .card h3 {font-size:20px;margin:14px 0;color:#222;}
-        .card p {color:#666;line-height:1.7;}
+    .card {border:1px solid #eee;padding:30px;border-radius:10px;text-align:center;transition:0.3s;}
+    .card:hover {box-shadow:0 8px 24px #00000015;transform:translateY(-5px);}
+    .card h3 {font-size:20px;margin:14px 0;color:#222;}
+    .card p {color:#666;line-height:1.7;}
         /* 报价板块 */
-        .price {background:#f7f8fa;}
-        .price-box {display:grid;grid-template-columns:repeat(3,1fr);gap:24px;}
-        .price-card {background:#fff;padding:30px;border-radius:10px;text-align:center;box-shadow:0 4px 12px rgba(0,0,0,0.06);}
+    .price {background:#f7f8fa;}
+    .price-box {display:grid;grid-template-columns:repeat(3,1fr);gap:24px;}
+    .price-card {background:#fff;padding:30px;border-radius:10px;text-align:center;box-shadow:0 4px 12px rgba(0,0,0,0.06);}
         .price-card h3 {font-size:20px;color:#222;margin-bottom:12px;}
         .price-val {font-size:32px;color:#165DFF;font-weight:bold;margin-bottom:12px;}
         .price-desc {color:#666;line-height:1.7;}
@@ -168,7 +168,7 @@
         <div class="price-box">
             <div class="price-card">
                 <h3>开关/插座安装</h3>
-                <div class="price-val">¥5起</div>
+                <div class="price-val">¥6起</div>
                 <div class="price-desc">普通开关、插座拆装更换<br>不含配件，复杂移位另算</div>
             </div>
             <div class="price-card">
