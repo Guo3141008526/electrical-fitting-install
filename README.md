@@ -1,4 +1,4 @@
-安装开关插座灯具[index.html](https://github.com/user-attachments/files/34230615/index.html)
+[index.html](https://github.com/user-attachments/files/34233452/index.html)
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
